@@ -885,7 +885,7 @@
     },
     {
         "County": "Aleutians West",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "02016",
         "Land Area": "4390.276",
         "Latitude": "51.959447",
@@ -911,7 +911,7 @@
     },
     {
         "County": "Bethel",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "02050",
         "Land Area": "40570.003",
         "Latitude": "60.928916",
@@ -950,7 +950,7 @@
     },
     {
         "County": "Dillingham",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "02070",
         "Land Area": "18568.778",
         "Latitude": "59.824816",
@@ -989,7 +989,7 @@
     },
     {
         "County": "HoonahAngoon",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "02105",
         "Land Area": "7524.915",
         "Latitude": "58.076434",
@@ -1080,7 +1080,7 @@
     },
     {
         "County": "Nome",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "02180",
         "Land Area": "22961.761",
         "Latitude": "64.783686",
@@ -1119,7 +1119,7 @@
     },
     {
         "County": "Petersburg",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "02195",
         "Land Area": "3281.982",
         "Latitude": "56.639612",
@@ -1132,7 +1132,7 @@
     },
     {
         "County": "Prince of WalesHyder",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "02198",
         "Land Area": "3922.873",
         "Latitude": "55.415683",
@@ -1171,7 +1171,7 @@
     },
     {
         "County": "Southeast Fairbanks",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "02240",
         "Land Area": "24768.808",
         "Latitude": "63.864997",
@@ -1184,7 +1184,7 @@
     },
     {
         "County": "ValdezCordova",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "02261",
         "Land Area": "34239.880",
         "Latitude": "61.349840",
@@ -1197,7 +1197,7 @@
     },
     {
         "County": "Wade Hampton",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "02270",
         "Land Area": "17081.433",
         "Latitude": "62.283174",
@@ -1236,7 +1236,7 @@
     },
     {
         "County": "YukonKoyukuk",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "02290",
         "Land Area": "145504.789",
         "Latitude": "65.376131",
@@ -3459,7 +3459,7 @@
     },
     {
         "County": "Fremont",
-        "County Seat(s)": "Ca\u00f1on City",
+        "County Seat(s)": "Cañon City",
         "FIPS": "08043",
         "Land Area": "1533.068",
         "Latitude": "38.455658",
@@ -7098,7 +7098,7 @@
         "Water Area": "4.053"
     },
     {
-        "County": "Hawai\u02bbi",
+        "County": "Hawaiʻi",
         "County Seat(s)": "Hilo",
         "FIPS": "15001",
         "Land Area": "4028.417",
@@ -7125,7 +7125,7 @@
     },
     {
         "County": "Kalawao",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "15005",
         "Land Area": "11.991",
         "Latitude": "21.218764",
@@ -7137,8 +7137,8 @@
         "Water Area": "40.838"
     },
     {
-        "County": "Kaua\u02bbi",
-        "County Seat(s)": "L\u012bhu\u02bbe",
+        "County": "Kauaʻi",
+        "County Seat(s)": "Līhuʻe",
         "FIPS": "15007",
         "Land Area": "619.956",
         "Latitude": "22.012038",
@@ -15809,7 +15809,7 @@
     },
     {
         "County": "Baltimore",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "24510",
         "Land Area": "80.944",
         "Latitude": "39.300214",
@@ -20762,7 +20762,7 @@
     },
     {
         "County": "St. Louis",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "29510",
         "Land Area": "61.909",
         "Latitude": "38.635699",
@@ -22920,7 +22920,7 @@
     },
     {
         "County": "Carson City",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "32510",
         "Land Area": "144.662",
         "Latitude": "39.153447",
@@ -23791,7 +23791,7 @@
     },
     {
         "County": "Bronx",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "36005",
         "Land Area": "42.096",
         "Latitude": "40.848711",
@@ -24064,7 +24064,7 @@
     },
     {
         "County": "Kings",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "36047",
         "Land Area": "70.816",
         "Latitude": "40.635133",
@@ -24155,7 +24155,7 @@
     },
     {
         "County": "New York",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "36061",
         "Land Area": "22.829",
         "Latitude": "40.776557",
@@ -24285,7 +24285,7 @@
     },
     {
         "County": "Queens",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "36081",
         "Land Area": "108.532",
         "Latitude": "40.658557",
@@ -24311,7 +24311,7 @@
     },
     {
         "County": "Richmond",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "36085",
         "Land Area": "58.370",
         "Latitude": "40.563855",
@@ -31357,7 +31357,7 @@
     },
     {
         "County": "Oglala Lakota",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "46102",
         "Land Area": "2093.898",
         "Latitude": "43.341937",
@@ -31474,7 +31474,7 @@
     },
     {
         "County": "Todd",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "46121",
         "Land Area": "1388.556",
         "Latitude": "43.208172",
@@ -37896,7 +37896,7 @@
     },
     {
         "County": "Alexandria",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51510",
         "Land Area": "15.027",
         "Latitude": "38.818343",
@@ -37909,7 +37909,7 @@
     },
     {
         "County": "Bedford",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51515",
         "Land Area": "6.878",
         "Latitude": "37.338156",
@@ -37922,7 +37922,7 @@
     },
     {
         "County": "Bristol",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51520",
         "Land Area": "13.013",
         "Latitude": "36.616954",
@@ -37935,7 +37935,7 @@
     },
     {
         "County": "Buena Vista",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51530",
         "Land Area": "6.704",
         "Latitude": "37.731663",
@@ -37948,7 +37948,7 @@
     },
     {
         "County": "Charlottesville",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51540",
         "Land Area": "10.238",
         "Latitude": "38.037658",
@@ -37961,7 +37961,7 @@
     },
     {
         "County": "Chesapeake",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51550",
         "Land Area": "340.800",
         "Latitude": "36.679376",
@@ -37974,7 +37974,7 @@
     },
     {
         "County": "Colonial Heights",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51570",
         "Land Area": "7.520",
         "Latitude": "37.261685",
@@ -37987,7 +37987,7 @@
     },
     {
         "County": "Covington",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51580",
         "Land Area": "5.468",
         "Latitude": "37.778143",
@@ -38000,7 +38000,7 @@
     },
     {
         "County": "Danville",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51590",
         "Land Area": "42.934",
         "Latitude": "36.583334",
@@ -38013,7 +38013,7 @@
     },
     {
         "County": "Emporia",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51595",
         "Land Area": "6.894",
         "Latitude": "36.696182",
@@ -38026,7 +38026,7 @@
     },
     {
         "County": "Fairfax",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51600",
         "Land Area": "6.239",
         "Latitude": "38.853183",
@@ -38039,7 +38039,7 @@
     },
     {
         "County": "Falls Church",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51610",
         "Land Area": "1.999",
         "Latitude": "38.883787",
@@ -38052,7 +38052,7 @@
     },
     {
         "County": "Franklin",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51620",
         "Land Area": "8.206",
         "Latitude": "36.684014",
@@ -38065,7 +38065,7 @@
     },
     {
         "County": "Fredericksburg",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51630",
         "Land Area": "10.440",
         "Latitude": "38.299272",
@@ -38078,7 +38078,7 @@
     },
     {
         "County": "Galax",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51640",
         "Land Area": "8.240",
         "Latitude": "36.665640",
@@ -38091,7 +38091,7 @@
     },
     {
         "County": "Hampton",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51650",
         "Land Area": "51.413",
         "Latitude": "37.048030",
@@ -38104,7 +38104,7 @@
     },
     {
         "County": "Harrisonburg",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51660",
         "Land Area": "17.418",
         "Latitude": "38.436013",
@@ -38117,7 +38117,7 @@
     },
     {
         "County": "Hopewell",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51670",
         "Land Area": "10.278",
         "Latitude": "37.291010",
@@ -38130,7 +38130,7 @@
     },
     {
         "County": "Lexington",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51678",
         "Land Area": "2.497",
         "Latitude": "37.782332",
@@ -38143,7 +38143,7 @@
     },
     {
         "County": "Lynchburg",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51680",
         "Land Area": "49.128",
         "Latitude": "37.399016",
@@ -38156,7 +38156,7 @@
     },
     {
         "County": "Manassas",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51683",
         "Land Area": "9.881",
         "Latitude": "38.747561",
@@ -38169,7 +38169,7 @@
     },
     {
         "County": "Manassas Park",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51685",
         "Land Area": "2.534",
         "Latitude": "38.768991",
@@ -38182,7 +38182,7 @@
     },
     {
         "County": "Martinsville",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51690",
         "Land Area": "10.956",
         "Latitude": "36.683527",
@@ -38195,7 +38195,7 @@
     },
     {
         "County": "Newport News",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51700",
         "Land Area": "68.714",
         "Latitude": "37.075978",
@@ -38208,7 +38208,7 @@
     },
     {
         "County": "Norfolk",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51710",
         "Land Area": "54.120",
         "Latitude": "36.923015",
@@ -38221,7 +38221,7 @@
     },
     {
         "County": "Norton",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51720",
         "Land Area": "7.481",
         "Latitude": "36.931549",
@@ -38234,7 +38234,7 @@
     },
     {
         "County": "Petersburg",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51730",
         "Land Area": "22.932",
         "Latitude": "37.204730",
@@ -38247,7 +38247,7 @@
     },
     {
         "County": "Poquoson",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51735",
         "Land Area": "15.317",
         "Latitude": "37.128360",
@@ -38260,7 +38260,7 @@
     },
     {
         "County": "Portsmouth",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51740",
         "Land Area": "33.653",
         "Latitude": "36.859430",
@@ -38273,7 +38273,7 @@
     },
     {
         "County": "Radford",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51750",
         "Land Area": "9.872",
         "Latitude": "37.120036",
@@ -38286,7 +38286,7 @@
     },
     {
         "County": "Richmond",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51760",
         "Land Area": "59.805",
         "Latitude": "37.531399",
@@ -38299,7 +38299,7 @@
     },
     {
         "County": "Roanoke",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51770",
         "Land Area": "42.562",
         "Latitude": "37.277830",
@@ -38312,7 +38312,7 @@
     },
     {
         "County": "Salem",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51775",
         "Land Area": "14.437",
         "Latitude": "37.285333",
@@ -38325,7 +38325,7 @@
     },
     {
         "County": "Staunton",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51790",
         "Land Area": "19.975",
         "Latitude": "38.158056",
@@ -38338,7 +38338,7 @@
     },
     {
         "County": "Suffolk",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51800",
         "Land Area": "400.168",
         "Latitude": "36.697157",
@@ -38351,7 +38351,7 @@
     },
     {
         "County": "Virginia Beach",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51810",
         "Land Area": "249.016",
         "Latitude": "36.779322",
@@ -38364,7 +38364,7 @@
     },
     {
         "County": "Waynesboro",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51820",
         "Land Area": "15.039",
         "Latitude": "38.067157",
@@ -38377,7 +38377,7 @@
     },
     {
         "County": "Williamsburg",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51830",
         "Land Area": "9.022",
         "Latitude": "37.269293",
@@ -38390,7 +38390,7 @@
     },
     {
         "County": "Winchester",
-        "County Seat(s)": "\u2014",
+        "County Seat(s)": "—",
         "FIPS": "51840",
         "Land Area": "9.233",
         "Latitude": "39.173869",

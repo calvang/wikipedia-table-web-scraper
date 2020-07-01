@@ -1,0 +1,26 @@
+[
+    {
+        "Description\n": "Split into",
+        "Distribution": "Red Hat Linux"
+    },
+    {
+        "Description\n": "Communitysupported Linux distribution designed as an OpenSource version of RHEL and well suited for servers.",
+        "Distribution": "CentOS"
+    },
+    {
+        "Description\n": "Communitysupported Linux distribution sponsored by",
+        "Distribution": "Fedora"
+    },
+    {
+        "Description\n": "A communitydeveloped Linux distribution sponsored by",
+        "Distribution": "openSUSE"
+    },
+    {
+        "Description\n": "Rolling release Linux distribution developed by Intel.",
+        "Distribution": "Clear Linux"
+    },
+    {
+        "Description\n": "The first release was based on Red Hat Linux (version 5.1) and",
+        "Distribution": "Mandrake Linux"
+    }
+]
